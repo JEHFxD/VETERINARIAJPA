@@ -1,0 +1,12 @@
+aplicacion\Principal.class
+entidades\Nacimiento.class
+clases\GestionMascotas.class
+clases\GestionPersonas.class
+dao\ProductoDao.class
+clases\GestionProductos.class
+dao\PersonaDao.class
+entidades\Persona.class
+entidades\Mascota.class
+entidades\Producto.class
+aplicacion\JPAUtil.class
+dao\MascotaDao.class
